@@ -1,0 +1,70 @@
+@media screen and (min-width:1280px){
+body {
+    background-image: url("https://4kwallpapers.com/images/wallpapers/4th-of-july-bald-3840x2160-11883.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+   }
+.nav-bar{
+    background-color: #0E2954;
+    height: 5.5cm;
+}
+.nav-bar img{
+    background-color: red;
+    border-radius: 50%;
+
+}
+.nav-bar h1{
+font-family: 'Dela Gothic One', cursive;
+position: relative;
+left: 11%;
+font-size: 708%;
+margin-top:-8%;
+color:white;
+}
+
+.info img{
+position: relative;
+width: 35%;
+margin-top:1%;
+left:1%;
+}
+
+.paragrafos{
+    position: relative;
+    font-family: 'Dela Gothic One', cursive;
+    color: white;
+    margin: 8%;
+    left: 0%;
+    margin-top: 3%;
+}
+.paragrafos p{
+    margin:2%;
+}
+.armas{
+position: relative;
+margin-top: -42%;
+left: 64%;
+
+
+
+
+}
+.armas img{
+position: relative;
+width: 35%;
+}
+.paragrafo-armas p{
+    position: relative;
+    font-family: 'Dela Gothic One', cursive;
+    color: white;
+    margin-top: 3%;
+    margin: 2%;
+    left: 72%;
+}
+
+
+
+
+
+}
